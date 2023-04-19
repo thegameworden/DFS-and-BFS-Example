@@ -1,0 +1,30 @@
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.csproj.AssemblyReference.cache
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.AssemblyInfoInputs.cache
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.AssemblyInfo.cs
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.exe
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.deps.json
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.runtimeconfig.json
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.pdb
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\refint\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.pdb
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.genruntimeconfig.cache
+C:\Users\ethan\OneDrive\Desktop\AOC\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\ref\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.exe
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.deps.json
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.runtimeconfig.json
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\bin\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.pdb
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.csproj.AssemblyReference.cache
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.AssemblyInfoInputs.cache
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.AssemblyInfo.cs
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\refint\CSC595_IntroToAI_DFSandBFS.dll
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.pdb
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\CSC595_IntroToAI_DFSandBFS.genruntimeconfig.cache
+C:\Users\ethan\OneDrive\Desktop\School\CSC595 Intro to AI\CSC595_IntroToAI_DFSandBFS\CSC595_IntroToAI_DFSandBFS\obj\Debug\net6.0\ref\CSC595_IntroToAI_DFSandBFS.dll
